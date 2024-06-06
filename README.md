@@ -3,4 +3,4 @@ Python programs created during my graduation.
 
 | Problem  | Solution |
 | ------------- | ------------- |
-| Area of Triangle  | <a src="https://github.com/DevFreAkeD/Python-Programs/blob/main/area%20of%20triangle.py">Click Here</a> |
+| Find Area of Triangle  | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/area%20of%20triangle.py">Click Here</a> |
