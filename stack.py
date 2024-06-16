@@ -48,7 +48,7 @@ while True:
         if popped_item is not None:
             print("Popped element from the stack:", popped_item)
     elif choice == '3':
-        print("\nElements in the stack:", stack.items)
+        print("\nElements in STACK:", stack.items)
     elif choice == '4':
         stack.items = []
         print("\nStack emptied")
