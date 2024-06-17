@@ -16,4 +16,10 @@ Python programs created during my graduation.
 | Find Least Common Multiple (LCM) | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/lcm.py">Click Here</a> |
 | Validate Leap Year or Not  | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/leap-year.py">Click Here</a> |
 | Matrix | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/matrix.py">Click Here</a> |
-| Matrix Addition | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/matrix-addition.py">Click Here</a> |
+| Add 2 Matrices | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/matrix-addition.py">Click Here</a> |
+| Multiplay 2 Matrices | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/multiply-matrices.py">Click Here</a> |
+| Multiplication Table | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/multiplication=table.py">Click Here</a> |
+| Swap Two Numbers | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/number-swap.py">Click Here</a> |
+| Find Odd-Even | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/odd=even.py">Click Here</a> |
+| Validate String a Palindrome or Not | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/palindrome.py">Click Here</a> |
+| Find Power of a Number | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/power.py">Click Here</a> |
