@@ -14,3 +14,6 @@ Python programs created during my graduation.
 | Generate Fibonacci Series  | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/fibonacci.py">Click Here</a> |
 | Find Highest Common Factor (HCF) | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/hcf.py">Click Here</a> |
 | Find Least Common Multiple (LCM) | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/lcm.py">Click Here</a> |
+| Validate Leap Year or Not  | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/leap-year.py">Click Here</a> |
+| Matrix | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/matrix.py">Click Here</a> |
+| Matrix Addition | <a href="https://github.com/DevFreAkeD/Python-Programs/blob/main/matrix-addition.py">Click Here</a> |
